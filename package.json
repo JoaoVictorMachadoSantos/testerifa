@@ -1,0 +1,17 @@
+{
+    "name": "meu-projeto-rifa",
+    "version": "1.0.0",
+    "description": "Projeto de rifa online",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "pg": "^8.5.1"
+    },
+    "engines": {
+      "node": "14.x"
+    }
+  }
+  
